@@ -62,7 +62,7 @@
     "league/csv": "8.*",
     "laravelcollective/html": "^5.4",
     "rmccue/requests": "1.*",
-    "pragmarx/google2fa": "1.*",
+    "pragmarx/google2fa": "7.*",
     "bacon/bacon-qr-code": "1.*"
   },
   "require-dev": {
